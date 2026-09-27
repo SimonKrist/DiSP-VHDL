@@ -1,0 +1,13 @@
+vcom ../vhdl/i2s_.vhd
+vcom ../vhdl/i2s_rtl.vhd
+vcom ../vhdl/i2s_rtl_cfg.vhd
+vcom ../vhdl/filter_pkg_counting.vhd
+vcom ../vhdl/convolution_.vhd
+vcom ../vhdl/convolution_rtl.vhd
+vcom ../vhdl/convolution_rtl_cfg.vhd
+vcom ../vhdl/disp_top_.vhd
+vcom ../vhdl/disp_top_struct.vhd
+vcom ../vhdl/disp_top_struct_cfg.vhd
+vcom ../tb/tb_disp_top_.vhd
+vcom ../tb/tb_disp_top_sim.vhd
+vcom ../tb/tb_disp_top_sim_cfg.vhd
